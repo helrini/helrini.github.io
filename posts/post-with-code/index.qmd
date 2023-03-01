@@ -2,6 +2,7 @@
 title: Single file
 layout: page
 date: "2023-02-26"
+categories: "fast.ai"
 ---
 this is cat_dog classifier
 

@@ -11,6 +11,9 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+    left:
+      - text: "posts"
+        href: posts/post-with-code/index.qmd
 format:
   html:
     theme: cosmo

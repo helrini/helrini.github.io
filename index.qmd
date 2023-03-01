@@ -1,9 +1,11 @@
 ---
-title: "helrini.github.io"
+title: "helrini"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: "default"
+  fields: [date, title]
+  table-hover: true
   categories: true
   sort-ui: false
   filter-ui: false
